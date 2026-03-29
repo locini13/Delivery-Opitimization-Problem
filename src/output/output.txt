@@ -1,0 +1,52 @@
+--- Greedy ---
+
+========== DELIVERY PLAN ==========
+Agent A
+  Deliveries     : L7, L45, L33, L48, L30, L20, L34, L40, L11, L15, L9, L41, L35, L29, L38, L27, L18
+  Total Distance : 360.0 km
+
+Agent B
+  Deliveries     : L23, L13, L16, L4, L10, L5, L19, L8, L17, L14, L28, L43, L49, L21, L2, L12, L47, L44, L6
+  Total Distance : 343.0 km
+
+Agent C
+  Deliveries     : L1, L39, L42, L36, L26, L25, L37, L46, L3, L31, L22, L32, L50, L24
+  Total Distance : 327.0 km
+
+Difference (Balance Gap) : 33.0
+--------------------------------------------------
+--- Descending + Greedy ---
+
+========== DELIVERY PLAN ==========
+Agent A
+  Deliveries     : L20, L4, L16, L39, L1, L49, L31, L40, L14, L25, L18, L38, L12, L35, L9
+  Total Distance : 344.0 km
+
+Agent B
+  Deliveries     : L26, L36, L48, L13, L45, L22, L43, L34, L37, L17, L19, L24, L27, L50, L47, L2, L21, L15
+  Total Distance : 344.0 km
+
+Agent C
+  Deliveries     : L10, L30, L42, L33, L23, L7, L11, L3, L28, L46, L8, L5, L6, L44, L32, L29, L41
+  Total Distance : 342.0 km
+
+Difference (Balance Gap) : 2.0
+This is the Optimal Algorithm (Minimum Distance Gap)
+--------------------------------------------------
+--- Balanced ---
+
+========== DELIVERY PLAN ==========
+Agent A
+  Deliveries     : L20, L4, L16, L39, L1, L49, L31, L40, L14, L25, L18, L38, L12, L35, L9
+  Total Distance : 344.0 km
+
+Agent B
+  Deliveries     : L26, L36, L48, L13, L45, L22, L43, L34, L37, L17, L19, L24, L27, L50, L47, L2, L21, L15
+  Total Distance : 344.0 km
+
+Agent C
+  Deliveries     : L10, L30, L42, L33, L23, L7, L11, L3, L28, L46, L8, L5, L6, L44, L32, L29, L41
+  Total Distance : 342.0 km
+
+Difference (Balance Gap) : 2.0
+--------------------------------------------------

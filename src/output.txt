@@ -1,0 +1,21 @@
+--- Descending + Greedy (Optimal) ---
+
+========== DELIVERY PLAN ==========
+Agent A
+  Deliveries     : L4, L8, L2
+  Total Distance : 21.0 km
+
+Agent B
+  Deliveries     : L1, L3, L5
+  Total Distance : 20.0 km
+
+Agent C
+  Deliveries     : L7, L6, L9
+  Total Distance : 23.0 km
+
+========== SUMMARY ==========
+Total Deliveries Processed : 9
+Skipped Invalid Entries    : 0
+Max Distance              : 23.0
+Min Distance              : 20.0
+Difference (Balance Gap)  : 3.0
