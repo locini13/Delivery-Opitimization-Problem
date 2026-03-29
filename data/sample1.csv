@@ -1,0 +1,51 @@
+LocationID,Distance,Priority
+L1,25 km,High
+L2,5,Low
+L3,18,Medium
+L4,40 km,High
+L5,7km,Medium
+L6,32,Low
+L7,12,High
+L8,9 km,Medium
+L9,3,Low
+L10,50 km,High
+L11,22,Medium
+L12,6,Low
+L13,28 km,High
+L14,14,Medium
+L15,2 km,Low
+L16,35,High
+L17,11 km,Medium
+L18,45,Low
+L19,8,Medium
+L20,60 km,High
+L21,4,Low
+L22,27 km,Medium
+L23,15,High
+L24,19 km,Low
+L25,10,Medium
+L26,55 km,High
+L27,13,Low
+L28,17 km,Medium
+L29,6,Low
+L30,48 km,High
+L31,21 km,Medium
+L32,7,Low
+L33,33 km,High
+L34,16,Medium
+L35,5 km,Low
+L36,42,High
+L37,12 km,Medium
+L38,9,Low
+L39,30 km,High
+L40,18,Medium
+L41,4 km,Low
+L42,36,High
+L43,20 km,Medium
+L44,11,Low
+L45,26 km,High
+L46,15,Medium
+L47,8 km,Low
+L48,38,High
+L49,23 km,Medium
+L50,10,Low
